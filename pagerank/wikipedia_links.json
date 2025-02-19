@@ -1,0 +1,502 @@
+[
+  {
+    "from": "Artificial intelligence",
+    "to": "2001: A Space Odyssey",
+    "context": "2001: A Space Odyssey is a 1968 epic science fiction film produced and directed by Stanley Kubrick. The screenplay was written by Kubrick and Arthur C. Clarke, and it was inspired by multiple short stories by Clarke, including \"The Sentinel\" (1951). Clarke also published a novelisation of the film, in part written concurrently with the screenplay, after the film's release. 2001: A Space Odyssey stars Keir Dullea, Gary Lockwood, William Sylvester, and Douglas Rain and follows a voyage by astronauts, scientists, and the sentient supercomputer HAL 9000 to Jupiter to investigate an alien monolith."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "2001: A Space Odyssey (novel)",
+    "context": "2001: A Space Odyssey is a 1968 science fiction novel by British writer Arthur C. Clarke. It was developed concurrently with Stanley Kubrick's film version and published after the release of the film. Clarke and Kubrick worked on the book together, but eventually only Clarke ended up as the official author. The story is based in part on various short stories by Clarke, including \"The Sentinel\" (written in 1948 for a BBC competition, but first published in 1951 under the title \"Sentinel of Eternity\"). By 1992, the novel had sold three million copies worldwide. An elaboration of Clarke and Kubrick's collaborative work on this project was made in the 1972 book The Lost Worlds of 2001."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "2024 Indian general election",
+    "context": "General elections were held in India from 19 April to 1 June 2024 in seven phases, to elect all 543 members of the Lok Sabha. Votes were counted and the result was declared on 4 June to form the 18th Lok Sabha. On 7 June 2024, Prime Minister Narendra Modi confirmed the support of 293 MPs to Droupadi Murmu, the president of India. This marked Modi's third term as prime minister and his first time heading a coalition government, with the Telugu Desam Party of Andhra Pradesh and Janata Dal (United) of Bihar emerging as two main allies."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "3D optical data storage",
+    "context": "3D optical data storage is any form of optical data storage in which information can be recorded or read with three-dimensional resolution (as opposed to the two-dimensional resolution afforded, for example, by CD)."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "A* search algorithm",
+    "context": "A* (pronounced \"A-star\") is a graph traversal and pathfinding algorithm that is used in many fields of computer science due to its completeness, optimality, and optimal efficiency. Given a weighted graph, a source node and a goal node, the algorithm finds the shortest path (with respect to the given weights) from source to goal."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "A.I. Artificial Intelligence",
+    "context": "A.I. Artificial Intelligence (or simply A.I.) is a 2001 American science fiction film directed by Steven Spielberg. The screenplay by Spielberg and screen story by Ian Watson are loosely based on the 1969 short story \"Supertoys Last All Summer Long\" by Brian Aldiss. Set in a futuristic society, the film stars Haley Joel Osment as David, a childlike android uniquely programmed with the ability to love. Jude Law, Frances O'Connor, Brendan Gleeson and William Hurt star in supporting roles."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AAAI",
+    "context": "The Association for the Advancement of Artificial Intelligence (AAAI) is an international scientific society devoted to promote research in, and responsible use of, artificial intelligence. AAAI also aims to increase public understanding of artificial intelligence (AI), improve the teaching and training of AI practitioners, and provide guidance for research planners and funders concerning the importance and potential of current AI developments and future directions."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "ACM Computing Classification System",
+    "context": "The ACM Computing Classification System (CCS) is a subject classification system for computing devised by the Association for Computing Machinery (ACM). The system is comparable to the Mathematics Subject Classification (MSC) in scope, aims, and structure, being used by the various ACM journals to organize subjects by area."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "ACM Conference on Fairness, Accountability, and Transparency",
+    "context": "ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT, formerly known as ACM FAT*) is a peer-reviewed academic conference series about ethics and computing systems. Sponsored by the Association for Computing Machinery, this conference focuses on issues such as algorithmic transparency, fairness in machine learning, bias, and ethics from a multi-disciplinary perspective. The conference community includes computer scientists, statisticians, social scientists, scholars of law, and others."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "ACM SIGPLAN Notices",
+    "context": "SIGPLAN is the Association for Computing Machinery's Special Interest Group (SIG) on programming languages. This SIG explores programming language concepts and tools, focusing on design, implementation, practice, and theory. Its members are programming language developers, educators, implementers, researchers, theoreticians, and users."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI",
+    "context": "Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI (disambiguation)",
+    "context": "AI most frequently refers to artificial intelligence, which is intelligence demonstrated by machines."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI Safety Institute (United Kingdom)",
+    "context": "An AI Safety Institute (AISI), in general, is a state-backed institute aiming to evaluate and ensure the safety of the most advanced artificial intelligence (AI) models, also called frontier AI models."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI Safety Summit",
+    "context": "The AI Safety Summit was an international conference discussing the safety and regulation of artificial intelligence. It was held at Bletchley Park, Milton Keynes, United Kingdom, on 1–2 November 2023. It was the first ever global summit on artificial intelligence, and is planned to become a recurring event."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI Seoul Summit",
+    "context": "The 2024 AI Seoul Summit was co-hosted by the South Korean and British governments. The Seoul Declaration was adopted to address artificial intelligence technology and related challenges and opportunities."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI Winter",
+    "context": "In the history of artificial intelligence, an AI winter is a period of reduced funding and interest in artificial intelligence research. The field has experienced several hype cycles, followed by disappointment and criticism, followed by funding cuts, followed by renewed interest years or even decades later."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI aftermath scenarios",
+    "context": "Some scholars believe that advances in artificial intelligence, or AI, will eventually lead to a semi-apocalyptic post-scarcity and post-work economy where intelligent machines can outperform humans in almost every, if not every, domain. The questions of what such a world might look like, and whether specific scenarios constitute utopias or dystopias, are the subject of active debate."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI alignment",
+    "context": "In the field of artificial intelligence (AI), AI alignment aims to steer AI systems toward a person's or group's intended goals, preferences, and ethical principles. An AI system is considered aligned if it advances the intended objectives. A misaligned AI system pursues unintended objectives."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI art",
+    "context": "Artificial intelligence art is a visual artwork created through the use of an artificial intelligence (AI) program."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI boom",
+    "context": "The AI boom, or AI spring, is an ongoing period of rapid progress in the field of artificial intelligence (AI) that started in the late 2010s before gaining international prominence in the early 2020s. Examples include protein folding prediction led by Google DeepMind as well as large language models and generative AI applications developed by OpenAI."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI capability control",
+    "context": "In the field of artificial intelligence (AI) design, AI capability control proposals, also referred to as AI confinement, aim to increase our ability to monitor and control the behavior of AI systems, including proposed artificial general intelligences (AGIs), in order to reduce the danger they might pose if misaligned. However, capability control becomes less effective as agents become more intelligent and their ability to exploit flaws in human control systems increases, potentially resulting in an existential risk from AGI. Therefore, the Oxford philosopher Nick Bostrom and others recommend capability control methods only as a supplement to alignment methods."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI control problem",
+    "context": "In the field of artificial intelligence (AI), AI alignment aims to steer AI systems toward a person's or group's intended goals, preferences, and ethical principles. An AI system is considered aligned if it advances the intended objectives. A misaligned AI system pursues unintended objectives."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI effect",
+    "context": "The AI effect is the discounting of the behavior of an artificial-intelligence program as not \"real\" intelligence."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI risk",
+    "context": "Existential risk from artificial intelligence refers to the idea that substantial progress in artificial general intelligence (AGI) could lead to human extinction or an irreversible global catastrophe."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI safety",
+    "context": "AI safety is an interdisciplinary field focused on preventing accidents, misuse, or other harmful consequences arising from artificial intelligence (AI) systems. It encompasses machine ethics and AI alignment, which aim to ensure AI systems are moral and beneficial, as well as monitoring AI systems for risks and enhancing their reliability. The field is particularly concerned with existential risks posed by advanced AI models."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI takeover",
+    "context": "An AI takeover is an imagined scenario in which artificial intelligence (AI) emerges as the dominant form of intelligence on Earth and computer programs or robots effectively take control of the planet away from the human species, which relies on human intelligence. Possible scenarios include replacement of the entire human workforce due to automation, takeover by a superintelligent AI (ASI), and the notion of a robot uprising. Stories of AI takeovers have been popular throughout science fiction, but recent advancements have made the threat more real. Some public figures, such as Stephen Hawking and Elon Musk, have advocated research into precautionary measures to ensure future superintelligent machines remain under human control."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AI winter",
+    "context": "In the history of artificial intelligence, an AI winter is a period of reduced funding and interest in artificial intelligence research. The field has experienced several hype cycles, followed by disappointment and criticism, followed by funding cuts, followed by renewed interest years or even decades later."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "ALGOL 60",
+    "context": "ALGOL 60 (short for Algorithmic Language 1960) is a member of the ALGOL family of computer programming languages. It followed on from ALGOL 58 which had introduced code blocks and the begin and end pairs for delimiting them, representing a key advance in the rise of structured programming. ALGOL 60 was one of the first languages implementing function definitions (that could be invoked recursively). ALGOL 60 function definitions could be nested within one another (which was first introduced by any programming language), with lexical scope. It gave rise to many other languages, including CPL, PL/I, Simula, BCPL, B, Pascal, and C. Practically every computer of the era had a systems programming language based on ALGOL 60 concepts."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "A priori and a posteriori",
+    "context": "A priori ('from the earlier') and a posteriori ('from the later') are Latin phrases used in philosophy to distinguish types of knowledge, justification, or argument by their reliance on experience. A priori knowledge is independent from any experience. Examples include mathematics, tautologies and deduction from pure reason. A posteriori knowledge depends on empirical evidence. Examples include most fields of science and aspects of personal knowledge."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Abductive reasoning",
+    "context": "Abductive reasoning (also called abduction, abductive inference, or retroduction) is a form of logical inference that seeks the simplest and most likely conclusion from a set of observations. It was formulated and advanced by American philosopher and logician Charles Sanders Peirce beginning in the latter half of the 19th century."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Abstract and concrete",
+    "context": "In philosophy and the arts, a fundamental distinction is between things that are abstract and things that are concrete. While there is no general consensus as to how to precisely define the two, examples include that things like numbers, sets, and ideas are abstract objects, while plants, dogs, and planets are concrete objects. Popular suggestions for a definition include that the distinction between concreteness versus abstractness is, respectively: between (1) existence inside versus outside space-time; (2) having causes and effects versus not; 3) being related, in metaphysics, to particulars versus universals; and (4) belonging to either the physical versus the mental realm (or the mental-and-physical realm versus neither). Another view is that it is the distinction between contingent existence versus necessary existence; however, philosophers differ on which type of existence here defines abstractness, as opposed to concreteness. Despite this diversity of views, there is broad agreement concerning most objects as to whether they are abstract or concrete, such that most interpretations agree, for example, that rocks are concrete objects while numbers are abstract objects."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Academic journal",
+    "context": "An academic journal or scholarly journal is a periodical publication in which scholarship relating to a particular academic discipline is published. They serve as permanent and transparent forums for the presentation, scrutiny, and discussion of research. They nearly universally require peer review for research articles or other scrutiny from contemporaries competent and established in their respective fields."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Academic research",
+    "context": "Research is \"creative and systematic work undertaken to increase the stock of knowledge\". It involves the collection, organization, and analysis of evidence to increase understanding of a topic, characterized by a particular attentiveness to controlling sources of bias and error. These activities are characterized by accounting and controlling for biases. A research project may be an expansion of past work in the field. To test the validity of instruments, procedures, or experiments, research may replicate elements of prior projects or the project as a whole."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Accelerating change",
+    "context": "In futures studies and the history of technology, accelerating change is the observed exponential nature of the rate of technological change in recent history, which may suggest faster and more profound change in the future and may or may not be accompanied by equally profound social and cultural change."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Action selection",
+    "context": "Action selection is a way of characterizing the most basic problem of intelligent systems: what to do next. In artificial intelligence and computational cognitive science, \"the action selection problem\" is typically associated with intelligent agents and animats—artificial systems that exhibit complex behaviour in an agent environment. The term is also sometimes used in ethology or animal behavior."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Activation function",
+    "context": "The activation function of a node in an artificial neural network is a function that calculates the output of the node based on its individual inputs and their weights. Nontrivial problems can be solved using only a few nodes if the activation function is nonlinear. Modern activation functions include the smooth version of the ReLU, the GELU, which was used in the 2018 BERT model, the logistic (sigmoid) function used in the 2012 speech recognition model developed by Hinton et al, the ReLU used in the 2012 AlexNet computer vision model and in the 2015 ResNet model."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AdSense",
+    "context": "Google AdSense is a program run by Google through which website publishers in the Google Network of content sites serve text, images, video, or interactive media advertisements that are targeted to the site content and audience. These advertisements are administered, sorted, and maintained by Google. They can generate revenue on either a per-click or per-impression basis. Google beta-tested a cost-per-action service, but discontinued it in October 2008 in favor of a DoubleClick offering (also owned by Google). In Q1 2014, Google earned US$3.4 billion ($13.6 billion annualized), or 22% of total revenue, through Google AdSense. In 2021, more than 38 million websites used AdSense. It is a participant in the AdChoices program, so AdSense ads typically include the triangle-shaped AdChoices icon. This program also operates on HTTP cookies."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Adaptable robotics",
+    "context": "Adaptable Robotics refers to a field of robotics with a focus on creating robotic systems capable of adjusting their hardware and software components to perform a wide range of tasks while adapting to varying environments. The 1960s introduced robotics into the industrial field. Since then, the need to make robots with new forms of actuation, adaptability, sensing and perception, and even the ability to learn stemmed the field of adaptable robotics. Significant developments such as the PUMA robot, manipulation research, soft robotics, swarm robotics, AI, cobots, bio-inspired approaches, and more ongoing research have advanced the adaptable robotics field tremendously. Adaptable robots are usually associated with their development kit, typically used to create autonomous mobile robots. In some cases, an adaptable kit will still be functional even when certain components break."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Advanced driver-assistance system",
+    "context": "Advanced driver-assistance systems (ADAS) are technologies that assist drivers with the safe operation of a vehicle. Through a human-machine interface, ADAS increase car and road safety. ADAS use automated technology, such as sensors and cameras, to detect nearby obstacles or driver errors, and respond accordingly. ADAS can enable various levels of autonomous driving. "
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Adversarial machine learning",
+    "context": "Adversarial machine learning is the study of the attacks on machine learning algorithms, and of the defenses against such attacks. A survey from May 2020 exposes the fact that practitioners report a dire need for better protecting machine learning systems in industrial applications."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Adversarial search",
+    "context": "In computer science, a search algorithm is an algorithm designed to solve a search problem. Search algorithms work to retrieve information stored within particular data structure, or calculated in the search space of a problem domain, with either discrete or continuous values."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Aerobot",
+    "context": "An aerobot is an aerial robot, usually used in the context of an uncrewed space probe or unmanned aerial vehicle."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Aeronautics",
+    "context": "Aeronautics is the science or art involved with the study, design, and manufacturing of air flight-capable machines, and the techniques of operating aircraft and rockets within the atmosphere. "
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Affect (psychology)",
+    "context": "Affect, in psychology, is the underlying experience of feeling, emotion, attachment, or mood. It encompasses a wide range of emotional states and can be positive (e.g., happiness, joy, excitement) or negative (e.g., sadness, anger, fear, disgust). Affect is a fundamental aspect of human experience and plays a central role in many psychological theories and studies. It can be understood as a combination of three components: emotion, mood (enduring, less intense emotional states that are not necessarily tied to a specific event), and affectivity (an individual's overall disposition or temperament, which can be characterized as having a generally positive or negative affect). In psychology, the term affect is often used interchangeably with several related terms and concepts, though each term may have slightly different nuances. These terms encompass: emotion, feeling, mood, emotional state, sentiment, affective state, emotional response, affective reactivity, disposition. Researchers and psychologists may employ specific terms based on their focus and the context of their work."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Affective computing",
+    "context": "Affective computing is the study and development of systems and devices that can recognize, interpret, process, and simulate human affects. It is an interdisciplinary field spanning computer science, psychology, and cognitive science. While some core ideas in the field may be traced as far back as to early philosophical inquiries into emotion, the more modern branch of computer science originated with Rosalind Picard's 1995 paper on affective computing and her book Affective Computing published by MIT Press. One of the motivations for the research is the ability to give machines emotional intelligence, including to simulate empathy. The machine should interpret the emotional state of humans and adapt its behavior to them, giving an appropriate response to those emotions."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Agency (philosophy)",
+    "context": "Agency is the capacity of an actor to act in a given environment. It is independent of the moral dimension, which is called moral agency."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Agricultural robot",
+    "context": "An agricultural robot is a robot deployed for agricultural purposes. The main area of application of robots in agriculture today is at the harvesting stage. Emerging applications of robots or drones in agriculture include weed control, cloud seeding, planting seeds, harvesting, environmental monitoring and soil analysis. According to Verified Market Research, the agricultural robots market is expected to reach $11.58 billion by 2025."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alan Mackworth",
+    "context": "Alan Mackworth is a professor emeritus in the Department of Computer Science at the University of British Columbia. He is known as \"The Founding Father\" of RoboCup. He is a former president of the Association for the Advancement of Artificial Intelligence (AAAI) and former Canada Research Chair in Artificial Intelligence from 2001 to 2014."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alan Turing",
+    "context": "Alan Mathison Turing (; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alan Turing Institute",
+    "context": "The Alan Turing Institute is the United Kingdom's national institute for data science and artificial intelligence, founded in 2015 and largely funded by the UK government. It is named after Alan Turing, the British mathematician and computing pioneer."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alberto Ciaramella",
+    "context": "Alberto Ciaramella (born 1947) is an Italian computer engineer and scientist. He is notable for extensive pioneering contributions in the field of speech technologies and applied natural language processing, most of them at CSELT and Loquendo, with the amount of 40 papers and four patents."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Aldous Huxley",
+    "context": "Aldous Leonard Huxley ( AWL-dəs; 26 July 1894 – 22 November 1963) was an English writer and philosopher. His bibliography spans nearly 50 books, including non-fiction works, as well as essays, narratives, and poems."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AlexNet",
+    "context": "AlexNet is the name of a convolutional neural network (CNN) architecture, designed by Alex Krizhevsky in collaboration with Ilya Sutskever and Geoffrey Hinton, who was Krizhevsky's Ph.D. advisor at the University of Toronto. It had 60 million parameters and 650,000 neurons."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alex Graves (computer scientist)",
+    "context": "Alex Graves is a computer scientist."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alex Krizhevsky",
+    "context": "Alex Krizhevsky is a Ukrainian-born Canadian computer scientist most noted for his work on artificial neural networks and deep learning. In 2012, Krizhevsky, Ilya Sutskever and their PhD advisor Geoffrey Hinton, at the University of Toronto, developed a powerful visual-recognition network AlexNet using only two GeForce NVIDIA GPU cards. This revolutionized research in neural networks. Previously neural networks were trained on CPUs. The transition to GPUs opened the way to the development of advanced AI models. AlexNet won the ImageNet challenge in 2012. Krizhevsky and Sutskever sold their startup, DNN Research Inc., to Google, shortly after winning the contest. Krizhevsky left Google in September 2017 after losing interest in the work, to work at the company Dessa in support of new deep-learning techniques. Many of his numerous papers on machine learning and computer vision are frequently cited by other researchers. He is also the main author of the CIFAR-10 and CIFAR-100 datasets."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alex Pentland",
+    "context": "Alex Paul \"Sandy\" Pentland (born 1951) is an American computer scientist, HAI Fellow at Stanford, Toshiba Professor at MIT, and serial entrepreneur."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alexander Bain (philosopher)",
+    "context": "Alexander Bain (11 June 1818 – 18 September 1903) was a Scottish philosopher and educationalist in the British school of empiricism and a prominent and innovative figure in the fields of psychology, linguistics, logic, moral philosophy and education reform. He founded Mind, the first ever journal of psychology and analytical philosophy, and was the leading figure in establishing and applying the scientific method to psychology. Bain was the inaugural Regius Chair in Logic and Professor of Logic at the University of Aberdeen, where he also held Professorships in Moral Philosophy and English Literature and was twice elected Lord Rector of the University of Aberdeen."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alexander Lerner",
+    "context": "Alexander Yakovlevich Lerner (Russian: Александр Яковлевич Лернер; 7 September 1913, Vinnytsia, Russian Empire – 6 April 2004, Rehovot, Israel) was a scientist and Soviet refusenik."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alexey Ivakhnenko",
+    "context": "Alexey Ivakhnenko (Ukrainian: Олексíй Григо́рович Іва́хненко; 30 March 1913 – 16 October 2007) was a Soviet and Ukrainian mathematician most famous for developing the group method of data handling (GMDH), a method of inductive statistical learning, for which he is considered as one of the founders of deep learning."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alexey Lyapunov",
+    "context": "Alexey Andreyevich Lyapunov (Russian: Алексе́й Андре́евич Ляпуно́в; 8 October 1911 – 23 June 1973) was a Soviet mathematician and an early pioneer of computer science. One of the founders of Soviet cybernetics, Lyapunov was member of the Academy of Sciences of the Soviet Union and a specialist in the fields of real function theory, mathematical problems of cybernetics, set theory, programming theory, mathematical linguistics, and mathematical biology."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alfred North Whitehead",
+    "context": "Alfred North Whitehead  (15 February 1861 – 30 December 1947) was an English mathematician and philosopher. He created the philosophical school known as process philosophy, which has been applied in a wide variety of disciplines, including ecology, theology, education, physics, biology, economics, and psychology."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alfred Radcliffe-Brown",
+    "context": "Alfred Reginald Radcliffe-Brown, FBA (born Alfred Reginald Brown; 1881–1955) was an English social anthropologist who helped further develop the theory of structural functionalism. He conducted fieldwork in the Andaman Islands and Western Australia, which became the basis of his later books. He held academic appointments at universities in Cape Town, Sydney, Chicago, and Oxford, and sought to use model the field of anthopology after the natural sciences."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Algorithm",
+    "context": "In mathematics and computer science, an algorithm ( ) is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can use conditionals to divert the code execution through various routes (referred to as automated decision-making) and deduce valid inferences (referred to as automated reasoning). "
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Algorithm design",
+    "context": "In mathematics and computer science, an algorithm ( ) is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can use conditionals to divert the code execution through various routes (referred to as automated decision-making) and deduce valid inferences (referred to as automated reasoning). "
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Algorithmic bias",
+    "context": "Algorithmic bias describes systematic and repeatable errors in a computer system that create \"unfair\" outcomes, such as \"privileging\" one category over another in ways different from the intended function of the algorithm."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Algorithmic efficiency",
+    "context": "In computer science, algorithmic efficiency is a property of an algorithm which relates to the amount of computational resources used by the algorithm. Algorithmic efficiency can be thought of as analogous to engineering productivity for a repeating or continuous process."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Algorithmic fairness",
+    "context": "Fairness in machine learning (ML) refers to the various attempts to correct algorithmic bias in automated decision processes based on ML models. Decisions made by such models after a learning process may be considered unfair if they were based on variables considered sensitive (e.g., gender, ethnicity, sexual orientation, or disability)."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Algorithmic transparency",
+    "context": "Algorithmic transparency is the principle that the factors that influence the decisions made by algorithms should be visible, or transparent, to the people who use, regulate, and are affected by systems that employ those algorithms. Although the phrase was coined in 2016 by Nicholas Diakopoulos and Michael Koliska about the role of algorithms in deciding the content of digital journalism services, the underlying principle dates back to the 1970s and the rise of automated systems for scoring consumer credit."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Aliens (film)",
+    "context": "Aliens is a 1986 science fiction action film written and directed by James Cameron. It is the sequel to the 1979 science fiction horror film Alien, and the second film in the Alien franchise. Set in the far future, it stars Sigourney Weaver as Ellen Ripley, the sole survivor of an alien attack on her ship. When communications are lost with a human colony on the moon where her crew first encountered the alien creatures, Ripley agrees to return to the site with a unit of Colonial Marines to investigate. Michael Biehn, Paul Reiser, Lance Henriksen, and Carrie Henn are featured in supporting roles."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alignment Research Center",
+    "context": "The Alignment Research Center (ARC) is a nonprofit research institute based in Berkeley, California, dedicated to the alignment of advanced artificial intelligence with human values and priorities. Established by former OpenAI researcher Paul Christiano, ARC focuses on recognizing and comprehending the potentially harmful capabilities of present-day AI models."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Allen Newell",
+    "context": "Allen Newell (March 19, 1927 – July 19, 1992) was an American researcher in computer science and cognitive psychology at the RAND Corporation and at Carnegie Mellon University's School of Computer Science, Tepper School of Business, and Department of Psychology. He contributed to the Information Processing Language (1956) and two of the earliest AI programs, the Logic Theorist (1956) and the General Problem Solver (1957) (with Herbert A. Simon). He was awarded the ACM's A.M. Turing Award along with Herbert A. Simon in 1975 for their contributions to artificial intelligence and the psychology of human cognition."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Allenna Leonard",
+    "context": "Allenna Leonard is an American cybernetician, consultant and director of Team Syntegrity International, specializing in the application of Stafford Beer's Viable System Model and Syntegration.  She was president of the American Society for Cybernetics (ASC) from 2002 to 2004 and president of the International Society for the Systems Sciences in 2009–2010, and led the organization of its 54th annual meeting in Waterloo, Canada. Leonard is president of Metaphorum since 2022."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alpha-synuclein",
+    "context": "Alpha-synuclein  (aSyn) is a protein that, in humans, is encoded by the SNCA gene. Alpha-synuclein is a neuronal protein that regulates synaptic vesicle trafficking and subsequent neurotransmitter release."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AlphaFold",
+    "context": "AlphaFold is an artificial intelligence (AI) program developed by DeepMind, a subsidiary of Alphabet, which performs predictions of protein structure. The program is designed as a deep learning system."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AlphaFold 2",
+    "context": "AlphaFold is an artificial intelligence (AI) program developed by DeepMind, a subsidiary of Alphabet, which performs predictions of protein structure. The program is designed as a deep learning system."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AlphaGo",
+    "context": "AlphaGo is a computer program that plays the board game Go. It was developed by the London-based DeepMind Technologies, an acquired subsidiary of Google. Subsequent versions of AlphaGo became increasingly powerful, including a version that competed under the name Master. After retiring from competitive play, AlphaGo Master was succeeded by an even more powerful version known as AlphaGo Zero, which was completely self-taught without learning from human games. AlphaGo Zero was then generalized into a program known as AlphaZero, which played additional games, including chess and shogi.  AlphaZero has in turn been succeeded by a program known as MuZero which learns without being taught the rules."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AlphaGo versus Ke Jie",
+    "context": "AlphaGo versus Ke Jie was a three-game Go match between the computer Go program AlphaGo Master and current world No. 1 ranking player Ke Jie, being part of the Future of Go Summit in Wuzhen, China, played on 23, 25, and 27 May 2017. AlphaGo defeated Ke Jie in all three games."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "AlphaZero",
+    "context": "AlphaZero is a computer program developed by artificial intelligence research company DeepMind to master the games of chess, shogi and go. This algorithm uses an approach similar to AlphaGo Zero. "
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alphabet Inc.",
+    "context": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. Alphabet is the world's second-largest technology company by revenue, after Apple, and one of the world's most valuable companies. It was created through a restructuring of Google on October 2, 2015, and became the parent holding company of Google and several former Google subsidiaries. It is considered one of the Big Five American information technology companies, alongside Amazon, Apple, Meta, and Microsoft."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alternating decision tree",
+    "context": "An alternating decision tree (ADTree) is a machine learning method for classification. It generalizes decision trees and has connections to boosting."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alternative hypothesis",
+    "context": "In statistical hypothesis testing, the alternative hypothesis is one of the proposed proposition in the hypothesis test. In general the goal of hypothesis test is to demonstrate that in the given condition, there is sufficient evidence supporting the credibility of alternative hypothesis instead of the exclusive proposition in the test (null hypothesis). It is usually consistent with the research hypothesis because it is constructed from literature review, previous studies, etc. However, the research hypothesis is sometimes consistent with the null hypothesis."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alva Noë",
+    "context": "Alva Noë (born 1964) is an American philosopher. He is Professor of Philosophy at the University of California, Berkeley. The focus of his work is the theory of perception and consciousness. In addition to these problems in cognitive science and the philosophy of mind, he is interested in analytic phenomenology, the theory of art, Ludwig Wittgenstein, enactivism, and the origins of analytic philosophy."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alvey",
+    "context": "The Alvey Programme was a British government sponsored research programme in information technology that ran from 1984 to 1990. The programme was a reaction to the Japanese Fifth Generation project, which aimed to create a computer using massively parallel computing/processing. The programme was not focused on any specific technology such as robotics, but rather supported research in knowledge engineering in the United Kingdom. It has been likened in operations to the U.S. Defense Advanced Research Projects Agency (DARPA) and Japan's ICOT."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Alvin Goldman",
+    "context": "Alvin Ira Goldman (October 1, 1938 – August 4, 2024) was an American philosopher who was emeritus Board of Governors Professor of Philosophy and Cognitive Science at Rutgers University in New Jersey and a leading figure in epistemology."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Amazon (company)",
+    "context": "Amazon.com, Inc., doing business as Amazon (, AM-ə-zon; UK also , AM-ə-zən), is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Founded in 1994 by Jeff Bezos in Bellevue, Washington, the company originally started as an online marketplace for books but gradually expanded its offerings to include a wide range of product categories, referred to as \"The Everything Store\". Today, Amazon is considered one of the Big Five American technology companies, the other four being Alphabet, Apple, Meta, and Microsoft. "
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Amazon Alexa",
+    "context": "Amazon Alexa, or, Alexa, is a virtual assistant technology largely based on a Polish speech synthesizer named Ivona, bought by Amazon in 2013. It was first used in the Amazon Echo smart speaker and the Amazon Echo Dot, Echo Studio and Amazon Tap speakers developed by Amazon Lab126. It is capable of natural language processing for tasks such as voice interaction, music playback, creating to-do lists, setting alarms, streaming podcasts, playing audiobooks, providing weather, traffic, sports, other real-time information and news. Alexa can also control several smart devices as a home automation system.  Alexa capabilities may be extended by installing \"skills\" (additional functionality developed by third-party vendors, in other settings more commonly called apps) such as weather programs and audio features. It performs these tasks using automatic speech recognition, natural language processing, and other forms of weak AI."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Amazon Robotics",
+    "context": "Amazon Robotics LLC, formerly Kiva Systems, is a Massachusetts-based company that manufactures mobile robotic fulfillment systems. It is a subsidiary of Amazon.com. Its automated storage and retrieval systems have been used in the past by companies including The Gap, Walgreens, Staples, Gilt Groupe, Office Depot, Crate & Barrel, Amazon and Saks 5th Avenue. Employees of Erstwhile Kiva now only work in Amazon warehouses."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Ambient intelligence",
+    "context": "Ambient intelligence (AmI) refers to environments with electronic devices that are aware of and can recognize the presence of human beings and adapt accordingly. This concept encompasses various technologies in consumer electronics, telecommunications, and computing. Its primary purpose is to enhance user interactions through context-aware systems."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Amos Tversky",
+    "context": "Amos Nathan Tversky (Hebrew: עמוס טברסקי; March 16, 1937 – June 2, 1996) was an Israeli cognitive and mathematical psychologist and a key figure in the discovery of systematic human cognitive bias and handling of risk."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Analysis of algorithms",
+    "context": "In computer science, the analysis of algorithms is the process of finding the computational complexity of algorithms—the amount of time, storage, or other resources needed to execute them. Usually, this involves determining a function that relates the size of an algorithm's input to the number of steps it takes (its time complexity) or the number of storage locations it uses (its space complexity). An algorithm is said to be efficient when this function's values are small, or grow slowly compared to a growth in the size of the input. Different inputs of the same size may cause the algorithm to have different behavior, so best, worst and average case descriptions might all be of practical interest.  When not otherwise specified, the function describing the performance of an algorithm is usually an upper bound, determined from the worst case inputs to the algorithm."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Analytic–synthetic distinction",
+    "context": "The analytic–synthetic distinction is a semantic distinction used primarily in philosophy to distinguish between propositions (in particular, statements that are affirmative subject–predicate judgments) that are of two types: analytic propositions and synthetic propositions. Analytic propositions are true or not true solely by virtue of their meaning, whereas synthetic propositions' truth, if any, derives from how their meaning relates to the world."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Ancient language",
+    "context": "An ancient language is any language originating in times that may be referred to as ancient. There are no formal criteria for deeming a language ancient, but a traditional convention is to demarcate as \"ancient\" those languages that existed prior to the 5th century. Linguist Roger Woodward has said that \"[p]erhaps, then, what makes an ancient language different is our awareness that it has outlived those for whom it was an intimate element of the psyche\"."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Andrej Karpathy",
+    "context": "Andrej Karpathy (born 23 October 1986) is a Slovak-Canadian computer scientist who served as the director of artificial intelligence and Autopilot Vision at Tesla. He co-founded and formerly worked at OpenAI, where he specialized in deep learning and computer vision."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Andrew Ng",
+    "context": "Andrew Yan-Tak Ng (Chinese: 吳恩達; born 1976) is a British-American computer scientist and technology entrepreneur focusing on machine learning and artificial intelligence (AI). Ng was a cofounder and head of Google Brain and was the former Chief Scientist at Baidu, building the company's Artificial Intelligence Group into a team of several thousand people."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Android (robot)",
+    "context": "An android is a humanoid robot or other artificial being often made from a flesh-like material. Historically, androids existed only in the domain of science fiction and were frequently seen in film and television, but advances in robot technology have allowed the design of functional and realistic humanoid robots."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Andy Clark",
+    "context": "Andy Clark,  (born 1957) is a British philosopher who is Professor of Cognitive Philosophy at the University of Sussex. Prior to this, he was a professor of philosophy and Chair in Logic and Metaphysics at the University of Edinburgh in Scotland, director of the Cognitive Science Program at Indiana University in Bloomington, Indiana and previously taught at Washington University in St. Louis, Missouri. Clark is one of the founding members of the CONTACT collaborative research project whose aim is to investigate the role environment plays in shaping the nature of conscious experience. Clark's papers and books deal with the philosophy of mind and he is considered a leading scholar  on the subject of mind extension. He has also written extensively on connectionism, robotics and the role and nature of mental representation."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Animatronics",
+    "context": "An animatronic is a mechatronic puppet controlled by a machine to move in a fluent way. They are a modern variant of the automaton and are often used for the portrayal of characters in films, video games and in theme park attractions."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Ant colony optimization",
+    "context": "In computer science and operations research, the ant colony optimization algorithm (ACO) is a probabilistic technique for solving computational problems that can be reduced to finding good paths through graphs. Artificial ants represent multi-agent methods inspired by the behavior of real ants."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Ant trail",
+    "context": "Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. Ants evolved from vespoid wasp ancestors in the Cretaceous period. More than 13,800 of an estimated total of 22,000 species have been classified. They are easily identified by their geniculate (elbowed) antennae and the distinctive node-like structure that forms their slender waists."
+  },
+  {
+    "from": "Artificial intelligence",
+    "to": "Anthony Wilden",
+    "context": "Anthony George Wilden (14 December 1935 – 29 December 2019) was a writer, social theorist, college lecturer, and consultant. Wilden published numerous books and articles which intersect a number of fields, including systems theory, film theory, structuralism, cybernetics, psychiatry, anthropological theory, water control projects, urban ecosystems, resource conservation, and communications and social relations."
+  }
+]
